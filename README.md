@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Ngoc Anh
-🌱 I’m currently learning about C#
 
 <!--
 **ngocanh01/ngocanh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
